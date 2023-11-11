@@ -1,6 +1,6 @@
 Webstack网址导航
 ===
-### Demo: [➡️ www.webstack.cc](https://webstack.cc)
+### Demo: [➡️ av-nav.wangbin.org](https://av-nav.wangbin.org)
 
 QQ群交流：304584722 ; QQ交流群2：740911918
 
